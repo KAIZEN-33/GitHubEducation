@@ -48,7 +48,7 @@ Cuando tenga lista su foto, haga click en `upload a photo`.
 
 <img width="248" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/14100f15-4602-4a3c-a872-c978b72eba90">
 
-<br>En su plan actual debería decir `GitHub Pro`.
+<br>En su plan actual debería ser `GitHub Pro`.
 
 <img width="380" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/38ebea66-40af-4292-824e-ab2988504e02">
 
