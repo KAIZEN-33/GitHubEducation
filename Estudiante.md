@@ -38,5 +38,17 @@ Cuando tenga lista su foto, haga click en `upload a photo`.
 
 <img width="807" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/aee3c263-f8b7-48d2-893e-c0cf275448b2">
 
+<br>Recibirá un correo electrónico parecido a este.
 
+<img width="631" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/4b1db44e-7673-4fcd-972c-b4b7e547c06d">
+
+<br>De esta manera puede comprobar que ya tiene los beneficios de GitHub Education.
+
+<img width="227" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/2e6bf522-6107-468c-8ebd-eebd8e78e844">
+
+<img width="248" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/14100f15-4602-4a3c-a872-c978b72eba90">
+
+<br>En su plan actual debería decir `GitHub Pro`.
+
+<img width="380" alt="image" src="https://github.com/SPEKTOR-1/GitHubEducation/assets/144578498/38ebea66-40af-4292-824e-ab2988504e02">
 
